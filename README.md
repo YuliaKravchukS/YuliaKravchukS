@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/yuliia-kravchuk-sergeevna/"><img src="https://img.icons8.com/color/linkedin.png"/></a>
+<a href = "https://t.me/YuliaKravchukSergiivna"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000"/></a>
+</p>
 <!--
 **YuliaKravchukS/YuliaKravchukS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
